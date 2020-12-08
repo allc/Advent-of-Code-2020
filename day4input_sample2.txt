@@ -1,5 +1,0 @@
-eyr:2025
-hgt:161cm iyr:1962
-pid:394421140
-ecl:gry
-cid:209 hcl:#efcc98 byr:2001
